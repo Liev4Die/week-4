@@ -6,7 +6,7 @@
 
 //introduction
 alert("welcome to the quiz!")
-alert("There are 15 questions!")
+alert("There are 10 questions!")
 
 //question 1
 var question = prompt("1-How many Marvel movies are there?")
