@@ -125,13 +125,9 @@ else{
 }
 //question 10
 var question = prompt("10-who is the biggest Youtuber?")
-if(question == "pewdiepie"){
+if(question == "pewdiepie" || question == "Pewdiepie"){
 	alert("Correct")
 	document.write("<br><br>Question 10: correct")
-}
-else if(question == "Pewdiepie"){
-	alert("Correct")
-	document.write("<br><br<Question 10: correct")
 }
 else{
 	alert("Incorrent")
